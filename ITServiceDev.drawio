@@ -169,7 +169,7 @@
         <mxCell id="PbkKZ50N05NIXADAy-CQ-62" value="手动查找" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PbkKZ50N05NIXADAy-CQ-66" value="flora" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PbkKZ50N05NIXADAy-CQ-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PbkKZ50N05NIXADAy-CQ-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.468;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.027;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tBaIrEFZrDct_QK9EQoU-1" edge="1">
