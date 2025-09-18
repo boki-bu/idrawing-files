@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.1.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.1">
   <diagram name="第 1 页" id="CcGC8jgg5RIsHU9PEAFg">
     <mxGraphModel dx="2597" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PbkKZ50N05NIXADAy-CQ-65" value="新款M7、M8、新消费机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-126" y="160" width="880" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="4zCMQ1oqdFcEDTthqUzl-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFDDCD;" parent="1" vertex="1">
           <mxGeometry x="-70" y="12940" width="300" height="260" as="geometry" />
         </mxCell>
@@ -165,9 +168,6 @@
         </mxCell>
         <mxCell id="PbkKZ50N05NIXADAy-CQ-62" value="手动查找" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PbkKZ50N05NIXADAy-CQ-65" value="新款M7、M8、新消费机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="160" width="849" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PbkKZ50N05NIXADAy-CQ-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="350" width="120" height="60" as="geometry" />
